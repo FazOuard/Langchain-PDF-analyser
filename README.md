@@ -1,7 +1,7 @@
 # Langchain PDF Analyser
 
 A LangChain-based question-answering tool for PDF documents, with conversation memory and custom prompt templates.
-
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Background
 
 This project started from a [YouTube tutorial](https://www.youtube.com/watch?v=WmuSEfgzcJo&list=LL&index=26&t=7s) on using LangChain for PDF Q&A. The tutorial was built against an older version of the LangChain API, so this implementation updates it for the current API and adds two things the original didn't cover: a conversation memory buffer and configurable prompt templates.
